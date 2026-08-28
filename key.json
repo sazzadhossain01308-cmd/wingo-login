@@ -44,6 +44,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "DPMods-L4FBNI": {
+      "hwid": "RESET",
+      "expireDate": "2026-08-29",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
